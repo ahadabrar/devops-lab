@@ -1,5 +1,3 @@
 out/
 *.log
-
-# Ignore build log files
 *.log
